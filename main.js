@@ -11,4 +11,4 @@
 // ==/UserScript==
 
 /* This needs a mutation observer, but I literally have zero clue here */
-$(".madmanmoon").remove;
+$("#madmanmoon").remove;
